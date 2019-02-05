@@ -5,7 +5,9 @@ public class Car
 	public static void main(String[] args) 			//Main Method is static
 	{
 		//Creating a Car Object
-		Car c1 = new Car();
+		Car c1 = new Car();     //Syntax for creating CAR object in java
+		
+		//Bike b1 = new Bike();		//Syntax for creating BIKE object in java
 			
 		c1.startEngine();
 		c1.driverTheCar();
@@ -34,4 +36,5 @@ public class Car
 	{
 		System.out.println("I'm able to breathe...");
 	}	
+
 }
