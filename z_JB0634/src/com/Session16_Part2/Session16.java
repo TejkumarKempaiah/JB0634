@@ -12,7 +12,6 @@ public class Session16
 		
 		a = 100;
 		//phone_number = 3403401;
-			
+		System.out.println("The value of phone number is: "+phone_number);		
 	}
-
 }
