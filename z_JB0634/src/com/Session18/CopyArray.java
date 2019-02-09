@@ -29,7 +29,5 @@ public class CopyArray {
 		for (int array2 : i2) {
 			System.out.println(array2);
 		}
-
 	}
-
 }
