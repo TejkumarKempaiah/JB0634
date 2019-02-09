@@ -17,6 +17,7 @@ public class Class1
 		c2.r2();
 		
 		System.out.println(Math.random());
+		System.out.println("Package declaration implemetion completed...");
 		
 	}
 
