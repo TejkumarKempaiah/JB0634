@@ -15,11 +15,9 @@ public class Method_3
 		 boolean value2 = m1.method2();		
 		 
 		 System.out.println(value1);
-		 System.out.println(value2);
-		
+		 System.out.println(value2);	
 	}
-	
-	
+		
 	//user defined method
 	public static int method1()
 	{
@@ -30,10 +28,5 @@ public class Method_3
 	{
 		
 		return true;	
-	}
-	
-	
-	
-	
-	
+	}	
 }
